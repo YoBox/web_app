@@ -1,0 +1,1 @@
+SuggestionBoxes = new Mongo.Collection('suggestionBoxes');
